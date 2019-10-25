@@ -12,16 +12,8 @@
 ## Examples: 
 ```C#
 HasSpaces("hello") ➞ false
-```
-```C#
 HasSpaces("hello, world") ➞ true
-```
-```C#
 HasSpaces(" ") ➞ true
-```
-```C#
 HasSpaces("") ➞ false
-```
-```C#
 HasSpaces(",./!@#") ➞ false
 ```
